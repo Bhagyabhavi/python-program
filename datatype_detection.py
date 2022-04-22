@@ -1,0 +1,12 @@
+a=4567
+b='name'
+c=67.8
+l=["abc","charu","vishu","friends"]
+e=("joy","boy")
+d={"charu":"girl"}
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(l))
